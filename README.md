@@ -18,7 +18,7 @@ in progress, and currently has a section for viewing properties, with work being
 - React for the frontend web application
 - PostgreSql for the database
 
-Getting Started
+### Getting Started
 - Clone the repository: git clone https://github.com/AngelicaPopescu/RentHub.git
 - Install dependencies for both the backend and frontend using Maven and npm respectively.
 - Create a PostgreSql database named renthub_db and configure the application.properties file with your database credentials.
